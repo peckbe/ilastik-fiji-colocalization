@@ -1,0 +1,29 @@
+# image data
+*.czi
+*.tif
+*.tiff
+*.png
+*.jpg
+
+# ilastik
+*.ilp
+*.h5
+
+# results
+*.csv
+*.xls
+*.xlsx
+
+# ImageJ
+*.ijm
+*.roi
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
